@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15B4DB87-151C-4691-A8E2-E01F97C06567}"
+	ProjectSection(SolutionItems) = preProject
+		Solution Items\eula.rtf = Solution Items\eula.rtf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDevServerManager", "WebDevServerManager\WebDevServerManager.csproj", "{1D795094-7AE4-40C6-ADC7-8B0FC63DA3EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebDevServerManagerSetup", "WebDevServerManagerSetup\WebDevServerManagerSetup.vdproj", "{A39F5C20-B69D-4061-8593-2F717207FD3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDevServerManager9", "WebDevServerManager9\WebDevServerManager9.csproj", "{99D0792E-A1C1-438D-BB82-3CE5864A36C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D795094-7AE4-40C6-ADC7-8B0FC63DA3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D795094-7AE4-40C6-ADC7-8B0FC63DA3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D795094-7AE4-40C6-ADC7-8B0FC63DA3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D795094-7AE4-40C6-ADC7-8B0FC63DA3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39F5C20-B69D-4061-8593-2F717207FD3F}.Debug|Any CPU.ActiveCfg = Debug
+		{A39F5C20-B69D-4061-8593-2F717207FD3F}.Release|Any CPU.ActiveCfg = Release
+		{99D0792E-A1C1-438D-BB82-3CE5864A36C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D0792E-A1C1-438D-BB82-3CE5864A36C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D0792E-A1C1-438D-BB82-3CE5864A36C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D0792E-A1C1-438D-BB82-3CE5864A36C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+EndGlobal
